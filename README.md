@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ( Eu acho )
 
-Hi, I'm Vinicius, I'm Brazilian, starting on programming
-I am 14 years old
+Olá, sou o Vinicius, sou brasileiro e inicio na programação
+Eu tenho 14 anos
