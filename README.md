@@ -1,4 +1,3 @@
 # Hello ( Eu acho )
 
-Olá, sou o Vinicius, sou brasileiro e inicio na programação
-Eu tenho 14 anos
+### Olá, sou o Vinicius, sou brasileiro e inicio na programação, tenho 14 anos 
