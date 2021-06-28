@@ -1,3 +1,3 @@
-#### Olá, sou o Vinicius, sou um brasileiro estou iniciando na programação, tenho 14 anos.
-#### Moro na Bahia em Salvador gosto de estudar como os programas funcionam.
-#### Agora estou estudando HTML, CSS, JAVASCRIPT e GIT & GITHUB
+#### Hi, I'm Vinicius, I'm a Brazilian, I'm starting programming, I'm 14 years old.
+#### I live in Bahia in Salvador I like to study how the programs work.
+#### Now I'm studying HTML, CSS, JAVASCRIPT and GIT & GITHUB.
